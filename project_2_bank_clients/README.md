@@ -14,4 +14,4 @@
 
 *Инструменты* 
 предобработка данных,
-Python,Pandas
+Python,Pandas,PyMystem3, лемматизация
